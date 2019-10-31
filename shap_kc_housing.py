@@ -14,7 +14,7 @@
 import subprocess
 import os.path
 
-#download file if it doesn't already exist (may need to specify path)
+#download file if it doesn't already exist (may need to specify path) 
 if not (os.path.isfile("~\\kc_house_data.csv")):
 	#may need to specify download path with "-p [filepath]"
 	subprocess.Popen('kaggle datasets download -d harlfoxem/housesalesprediction --unzip')
