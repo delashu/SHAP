@@ -8,6 +8,6 @@ Originally conceived to solve a profit-sharing problem in game theory, shapley v
 
 
 
-Presentation found in: shap_nophot.pptx
+Presentation found in: shap_nophot.pptx  
 R code found in: shap.r  
 Python code found in: shap.py  
